@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egorg\\source\\repos\\gorbunov-students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3192611A-04FE-43A0-9A8C-D302C9626B46}|gorbunov-students\\gorbunov-students.csproj|c:\\users\\egorg\\source\\repos\\gorbunov-students\\gorbunov-students\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3192611A-04FE-43A0-9A8C-D302C9626B46}|gorbunov-students\\gorbunov-students.csproj|solutionrelative:gorbunov-students\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3192611A-04FE-43A0-9A8C-D302C9626B46}|gorbunov-students\\gorbunov-students.csproj|C:\\Users\\egorg\\source\\repos\\gorbunov-students\\gorbunov-students\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3192611A-04FE-43A0-9A8C-D302C9626B46}|gorbunov-students\\gorbunov-students.csproj|solutionrelative:gorbunov-students\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\egorg\\source\\repos\\gorbunov-students\\gorbunov-students\\App.config",
+              "RelativeDocumentMoniker": "gorbunov-students\\App.config",
+              "ToolTip": "C:\\Users\\egorg\\source\\repos\\gorbunov-students\\gorbunov-students\\App.config",
+              "RelativeToolTip": "gorbunov-students\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T19:05:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\egorg\\source\\repos\\gorbunov-students\\gorbunov-students\\MainForm.cs",
+              "RelativeDocumentMoniker": "gorbunov-students\\MainForm.cs",
+              "ToolTip": "C:\\Users\\egorg\\source\\repos\\gorbunov-students\\gorbunov-students\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "gorbunov-students\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:04:48.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
